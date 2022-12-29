@@ -9,7 +9,7 @@ require (
 	github.com/golang/mock v1.4.1
 	github.com/golang/protobuf v1.3.3
 	github.com/kubernetes-csi/csi-test v2.0.0+incompatible
-	github.com/kubernetes-csi/external-snapshotter/v2 v2.0.1
+	github.com/kubernetes-csi/external-snapshotter/v2 v2.1.3
 	github.com/onsi/ginkgo v1.10.2
 	github.com/onsi/gomega v1.7.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20171017195756-830351dc03c6 // indirect
